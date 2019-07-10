@@ -12,7 +12,7 @@ char * strstr ( const char *, const char * );
 在C++中有两个重载函数<br>
 
 举例:[POJ 3080](https://github.com/BinGYiZhanG/aoapc-book/blob/master/To%20Be%20a%20ACMer/7%E6%9C%88/07_10/POJ%203080%20Blue%20Jeans.md)
-永安里判断是否包含子串<br>
-
+判断是否包含子串<br>
+```if(!strstr(str[k],dna))```
 
 #### 英语翻译极差，将就着看吧
