@@ -2,7 +2,7 @@
 const char * strstr ( const char * str1, const char * str2 );
       char * strstr (       char * str1, const char * str2 );
 ```
-Return：第一个在字符串str1中出现字符串str2的位置指针，如果字符串str2不是字符串str1的部分，发怒返回一个空指针<br>
+Return：第一个在字符串str1中出现字符串str2的位置指针，如果字符串str2不是字符串str1的部分，发送返回一个空指针<br>
 匹配过程不包括终止的空字符，但它在这里停止。<br>
 
 在C中，这个函数只被声明为<br>
